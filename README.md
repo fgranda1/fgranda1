@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Luis Granda!
 
-I’m a **Software Engineer** with a passion for problem-solving and foundations in **Python** and **Web Development**. I enjoy creating efficient and scalable solutions, and I'm always excited to learn new technologies that enhance my development skills.
+I’m a **Software Engineer Student** with a passion for problem-solving and foundations in **Python** and **Web Development**. I enjoy creating efficient and scalable solutions, and I'm always excited to learn new technologies that enhance my development skills.
 
 ## 🚀 What I Do
 
